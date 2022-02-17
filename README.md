@@ -1,4 +1,4 @@
-### Hi there 👋, I am Samandar Yokubov!
+### Hi 👋, I am Samandar!
 
 
 
