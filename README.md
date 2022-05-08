@@ -1,8 +1,8 @@
 ### Hi 👋, I'm Samandar!
 
-📖 Major: Mathematics and Computer Science
-👀 I am interested in Data Science, Machine Learning, Deep Learning
-📫 How to reach me: samandaryokubov2000@gmail.com
+📖 Major: Mathematics and Computer Science  
+👀 I am interested in Data Science, Machine Learning, Deep Learning  
+📫 How to reach me: samandaryokubov2000@gmail.com  
 
 
 
