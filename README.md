@@ -3,7 +3,7 @@
 📖 Major: Mathematics and Computer Science  
 👀 I am interested in Data Science, Machine Learning.   
 📫 How to reach me: samandaryokubov2000@gmail.com  
-📝 Place I share my experience: (samandaryokubov.me)
+📝 Place I share my experience: [samandaryokubov.me](http://samandaryokubov.me/)
 
 
 <!--
