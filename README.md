@@ -3,7 +3,6 @@
 📖 Major: Applied Mathematics and Computer Science  
 👀 I am interested in Data Science, Computer Vision   
 📫 How to reach me: samandaryokubov2000@gmail.com  
-📝 Blog: [samandaryokubov.me](http://samandaryokubov.me/)
 
 
 <!--
